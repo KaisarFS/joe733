@@ -39,7 +39,7 @@ You can call me *Joe*. I'm a technophile.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 July, 2021 - 27 July, 2021
+Week: 22 July, 2021 - 28 July, 2021
 
 Python       3 hrs 53 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀   89.10 % 
 Text         17 mins         ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.54 % 
