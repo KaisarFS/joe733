@@ -39,7 +39,9 @@ You can call me *Joe*. I'm a technophile.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 February, 2022 - 19 February, 2022
+Week: 14 February, 2022 - 20 February, 2022
+
+Total: 42 hrs 55 mins
 
 Python     33 hrs 13 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀   76.46 % 
 Markdown   2 hrs 51 mins   ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.58 % 
