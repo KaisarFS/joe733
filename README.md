@@ -5,11 +5,11 @@ Hello! You can call me *Joe*. I'm a technophile.
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 January 2023 - To: 17 January 2023
+From: 11 January 2023 - To: 18 January 2023
 
-Total Time: 46 mins
+Total Time: 1 hr 46 mins
 
-Other        1 hr 30 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀   65.84 %
+Other        1 hr 30 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   45.82 %
 ```
 
 <!--END_SECTION:waka-->
